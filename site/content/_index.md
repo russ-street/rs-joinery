@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Bespoke joinery  & general carpentry"
+subtitle: RS Joinery is a small independent joinery workshop based in Frome, Somerset.</br></br>At RS Joinery our focus is on providing a competitively priced service with close attention to design and detail.</br></br>Take a look at some of the work we have provided for previous clients and don’t hesitate to get in touch if you have any queries.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
@@ -17,4 +17,3 @@ values:
     heading: Our values
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 ---
-

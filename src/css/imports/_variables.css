@@ -8,10 +8,16 @@
 	--grey-2: rgba(235, 231, 230, 1);
 	--grey-3: rgba(89, 87, 86, 1);
 	--grey-4: rgba(66, 64, 64, 1);
-	--black: rgba(43, 37, 35, 1);
+	--black: rgba(43, 37, 35, 0.8);
+
+	--rs-green-dark: #4C825E;
+	--rs-green-light: #7FA072;
+	--rs-off-white: #E6DADA;
 
 	/* Typography */
-	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--font-family: Avenir, "AvenirNext", "Segoe UI", Helvetica, Arial, sans-serif;
+	--font-primary: Avenir, "AvenirNext", "Segoe UI", Helvetica, Arial, sans-serif;
+	--font-secondary:  'Bebas Neue', cursive;
 	--line-height: 1.5;
 
 	--font-size: 18px;
