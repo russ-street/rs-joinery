@@ -1,33 +1,54 @@
 <!-- Contact -->
-<div class="mb4">
-  <h4 class="f3 b lh-title mb3 tc">Drop us a line below</h4>
-
-  <form action="">
-    <div class="flex-l mhn1-l">
-      <!-- Name -->
-      <div class="ph1-l w-50-l">
-        <fieldset>
-          <input type="text" id="name" name="name" placeholder="Name" class="w-100 mb2">
-          <label for="name">Name</label>
-        </fieldset>
-      </div>
-      <!-- Email -->
-      <div class="ph1-l w-50-l">
-        <fieldset>
-          <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2">
-          <label for="email">Email</label>
-        </fieldset>
+<div class="contact-form w-100 pt3 ph3 pt4-l pb6 ph5-l contact-background">
+  <div class="mw6 ph3 center">
+    <div class="mw6 ph3">
+      <div class="db mb3">
+        <div class="mw7 relative mb3 tc">
+          <h1 class="f2 di lh-title mb3 black mw6 font-secondary">
+            Got an Enquiry?<br/>
+            Get in Touch
+          </h1>
+        </div>
+        <div class="mw7 relative font-primary tc">
+          <p class="f6 di lh-title mb3 black mw6">
+            We’re interested to hear of any carpentry related jobs and happy to give provide a free non qoute. Please fill out the form below and we’re get back to as soon as possible.
+          </p>
+        </div>
       </div>
     </div>
-
-    <!-- Message -->
-    <fieldset>
-      <textarea id="message" name="message" placeholder="Your message" rows="8" cols="80" class="w-100"></textarea>
-      <label for="message">Your message</label>
-    </fieldset>
-    <!-- Button -->
-    <div class="tc">
-      <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
+  <form action="/thankyou" name="contact" method="POST" data-netlify="true">
+    <div class="flex flex-wrap flex-row-ns justify-end">
+      <div class="w-100">
+        <fieldset>
+          <div class="flex flex-column flex-row-ns mb3">
+            <label for="firstname" class="w-100 w-30-ns db">First name</label>
+            <input type="text" id="firstname" name="Firstname" required placeholder="First name" class="w-100">
+          </div>
+          <div class="flex flex-column flex-row-ns mb3">
+            <label for="lastname" class="w-100 w-30-ns db">Last name</label>
+            <input type="text" id="lastname" name="Lastname" required placeholder="Last name" class="w-100">
+          </div>
+          <div class="flex flex-column flex-row-ns mb3">
+            <label for="email" class="w-100 w-30-ns db">Email</label>
+            <input type="email" id="email" required name="Email" placeholder="Email" class="w-100">
+          </div>
+          <div class="flex flex-column flex-row-ns mb3">
+            <label for="phonenumber" class="w-100 w-30-ns db">Phone number</label>
+            <input id="phonenumber" type="text" required name="Phonenumber" placeholder="Phone number" class="w-100">
+          </div>
+          <div class="flex flex-column flex-row-ns mb3">
+            <label for="message" class="w-100 w-30-ns db">Your message</label>
+            <textarea id="message" name="Message" required placeholder="Your message" rows="8" cols="80" class="w-100"></textarea>
+          </div>
+          <!-- <div class="flex mv3 flex-wrap flex-row-ns items-center">
+            <div class="dn db-ns w-100 w-30-ns"></div>
+            <label for="message" class="f7 w-50 w-50-ns flex-2">Is it OK if we email you every now and then with news and updates you might be interested in? You can always unsubscribe later if you like.</label>
+          </div> -->
+        <div class="w-100 tc pt2 flex justify-center">
+          <button type="submit" value="Send" class="btn w-100 w-auto-ns raise">Submit</button>
+        </div>
+      </fieldset>
     </div>
   </form>
+</div>
 </div>

@@ -1,19 +1,120 @@
 ---
-title: "Bespoke joinery  & general carpentry"
-subtitle: RS Joinery is a small independent joinery workshop based in Frome, Somerset.</br></br>At RS Joinery our focus is on providing a competitively priced service with close attention to design and detail.</br></br>Take a look at some of the work we have provided for previous clients and don’t hesitate to get in touch if you have any queries.
-image: /img/home-jumbotron.jpg
-blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+ogimage: /img/og-image.jpg
+metatitle: RS Joiners | Bespoke joinery & general carpentry
+metadescription: RS Joiners offers a bespoke design, build and install service. Specialising in fitted storage solutions including wardrobes shelving and cupboards.
+title: RS Joiners | Bespoke joinery & general carpentry
+subtitle: RS Joiners is a small independent joinery workshop based in Frome, Somerset.<br/></br>At RS Joiners our aim is to provide a competitively priced, quality service and maximum customer satisfaction.<br/><br/>Take a look at some our previous work for clients and please don’t hesitate to get in touch if you have any queries. We're happy to offer a free no obligation quote.
+swiperblock:
+  title: "Services"
+  subtitle: RS Joiners offers a bespoke design, build and install service.<br/>Specialising in fitted storage solutions including wardrobes shelving and cupboards, but also more than happy to undertake any aspects of joinery related projects including hanging doors, skirting and flooring as well as restoration works.
+  swiper:
+    - slide:
+      heading: Birch plywood shelving
+      text:
+      image: /img/2019-12-021542502190109095071972474_23043836895.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Victorian window shutters
+      text:
+      image: /img/2019-11-111228502174791160656881061_23043836895.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Skirting board
+      text:
+      image: /img/2019-11-251935342185152797544860732_23043836895.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Fire surround
+      text:
+      image: /img/2020-10-261411592428514579695780854_23043836895.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Fitted alcove units
+      text:
+      image: /img/alcove-shelves.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Panelled doors
+      text:
+      image: /img/2020-09-171755522400330806697349638_23043836895.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Architrave
+      text:
+      image: /img/2020-10-021347502411077607083736548_23043836895.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Floating shelving
+      text:
+      image: /img/2020-09-282013142408372481843616110_23043836895.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Skirting board
+      text:
+      image: /img/2020-10-261411592428514576113731603_23043836895.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Books shelves
+      text:
+      image: /img/2020-09-282013142408372485174035283_23043836895.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading:
+      text:
+      image: /img/staircase-rod.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Wardrobe layouts
+      text:
+      image: /img/wardrobe-design.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Glazing aperture
+      text:
+      image: /img/glazing-frame.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Stair stringers
+      text:
+      image: /img/routed-stair-stringers.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Flooring restoration
+      text:
+      image: /img/floors-2.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Floating shelving
+      text:
+      image: /img/floating-shelves.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Fitted cabinet
+      text:
+      image: /img/fitted-pine-cabinet.jpg
+      alt:
+      ctaurl:
+    - slide:
+      heading: Pine balustrade
+      text:
+      image: /img/balustrade.jpg
+      alt:
+      ctaurl:
+
 ---

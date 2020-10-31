@@ -4,6 +4,7 @@ const CopyWebpackPlugin = require("copy-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const AssetsPlugin = require("assets-webpack-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const Swiper = require("swiper");
 
 module.exports = {
   entry: {
@@ -53,5 +54,11 @@ module.exports = {
       template: 'src/cms.html',
       inject: false,
     }),
+    new webpack.ProvidePlugin({
+      jQuery: 'jquery',
+      $: 'jquery',
+      jquery: 'jquery',
+      "window.jQuery": "jquery"
+    })
   ]
 };

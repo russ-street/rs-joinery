@@ -2,7 +2,7 @@ img {
   max-width: 100%;
 }
 
-/* Remove border-radiius from full-width images */
-img:not(.w-100) {
-  border-radius: var(--border-radius);
+.img-100 {
+  width: 100%;
+  height: 100%;
 }

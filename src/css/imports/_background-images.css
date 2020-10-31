@@ -1,0 +1,27 @@
+.home-jumbotron {
+  background: url('/img/timber-bg.svg'), var(--rs-green-dark);
+  background-position: top right, center;
+  background-size: 1100px 1100px;
+  background-repeat: no-repeat, repeat;
+}
+
+.footer-background {
+  background: url('/img/timber-bg.svg'), var(--rs-green-dark);
+  background-position: top right, center;
+  background-size: 500px 500px;
+  background-repeat: no-repeat, repeat;
+}
+
+.home-swiperblock {
+  background: url('/img/alcove-bg.jpg'), var(--white);
+  background-position: top right, center;
+  background-size: auto 100%, 100%;
+  background-repeat: no-repeat, repeat;
+}
+
+.contact-background {
+  background: url('/img/contact-bg.jpg'), var(--rs-off-white);
+  background-position: bottom left, center;
+  background-size: auto 125%, 100%;
+  background-repeat: no-repeat, repeat;
+}

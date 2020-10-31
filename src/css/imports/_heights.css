@@ -1,8 +1,9 @@
 .h1 { height: var(--spacing-medium); }
-.h2 { height: 2rem; }
-.h3 { height: 4rem; }
-.h4 { height: 8rem; }
-.h5 { height: 16rem; }
+.h2 { height: 2.5rem; }
+.h3 { height: 5rem; }
+.h3-5 { height: 7.5rem; }
+.h4 { height: 10rem; }
+.h5 { height: 15rem; }
 
 /* Height Percentages - Based off of height of parent */
 
@@ -12,6 +13,8 @@
 .h-100 { height: 100%; }
 
 .min-h-100 { min-height: 100%; }
+
+.min-h-nav { min-height: calc(100vh - 94px) }
 
 /* Screen Height Percentage */
 

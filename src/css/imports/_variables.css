@@ -8,7 +8,9 @@
 	--grey-2: rgba(235, 231, 230, 1);
 	--grey-3: rgba(89, 87, 86, 1);
 	--grey-4: rgba(66, 64, 64, 1);
-	--black: rgba(43, 37, 35, 0.8);
+	--black: rgba(43, 37, 35, 1);
+	--black-alpha-30: rgba(43, 37, 35, 0.3);
+	--black-alpha-15: rgba(43, 37, 35, 0.1);
 
 	--rs-green-dark: #4C825E;
 	--rs-green-light: #7FA072;
@@ -38,6 +40,6 @@
 	--spacing-extra-extra-extra-large: 16rem;
 
 	/* Miscelaneous */
-	--border-radius: .25rem;
+	--border-radius: 10px;
 	--hover-transition: all 150ms ease;
 }

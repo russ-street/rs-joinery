@@ -1,13 +1,23 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+<section id="home">
+{{ partial "jumbotron" (dict "title" .Title "subtitle" .Params.subtitle) }}
+</section>
 
-{{ partial "short-text" .Params.blurb}}
+<section id="services">
+{{ partial "swiper-block" .Params.swiperblock }}
+</section>
 
-{{ partial "2-up" .Params }}
+<section id="contact">
+{{ partial "contact-form" }}
+</section>
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+<!-- {{ partial "short-text" .Params.blurb}} -->
 
-{{ partial "blog" . }}
+<!-- {{ partial "2-up" .Params }} -->
+
+<!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }} -->
+
+<!-- {{ partial "blog" . }} -->
 
 {{ end }}

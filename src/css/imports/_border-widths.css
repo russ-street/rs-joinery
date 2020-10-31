@@ -1,7 +1,7 @@
 .bw0 { border-width: 0; }
 .bw1 { border-width: .125rem; }
-.bw2 { border-width: var(--spacing-extra-small); }
-.bw3 { border-width: var(--spacing-small); }
+.bw2 { border-width: 2px }
+.bw3 { border-width: 3px }
 .bw4 { border-width: var(--spacing-medium); }
 .bw5 { border-width: 2rem; }
 

@@ -40,6 +40,14 @@
   background-color: var(--primary);
 }
 
+.bg-rs-primary {
+  background-color: var(--rs-green-dark);
+}
+
+.bg-rs-secondary {
+  background-color: var(--rs-off-white);
+}
+
 .bg-highlight {
   background-color: var(--highlight);
 }

@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /admin/
+Disallow: /404/
+Disallow: /404.html

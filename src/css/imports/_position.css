@@ -1,7 +1,24 @@
 .static { position: static; }
+.sticky { position: sticky; }
 .relative  { position: relative; }
 .absolute  { position: absolute; }
 .fixed  { position: fixed; }
+
+.top-0 {
+  top: 0;
+}
+
+.top--162 {
+  top: -168px;
+}
+
+.top--132 {
+  top: -132px;
+}
+
+.right-0 {
+  right: 0;
+}
 
 @media (--breakpoint-not-small) {
   .static-ns { position: static; }
