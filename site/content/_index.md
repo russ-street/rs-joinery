@@ -3,10 +3,10 @@ ogimage: /img/og-image.jpg
 metatitle: RS Joiners | Bespoke joinery & general carpentry
 metadescription: RS Joiners offers a bespoke design, build and install service. Specialising in fitted storage solutions including wardrobes shelving and cupboards.
 title: RS Joiners | Bespoke joinery & general carpentry
-subtitle: RS Joiners is a small independent joinery workshop based in Frome, Somerset.<br/></br>At RS Joiners our aim is to provide a competitively priced, quality service and maximum customer satisfaction.<br/><br/>Take a look at some our previous work for clients and please don’t hesitate to get in touch if you have any queries. We're happy to offer a free no obligation quote.
+subtitle: RS Joiners is a small independent joinery workshop based in Frome, Somerset.<br/></br>At RS Joiners our aim is to provide a competitively priced, quality service and maximum customer satisfaction.<br/><br/>Take a look at some our <a href="#services" class="scrollTo link">previous work</a> and please don’t hesitate to <a href="#contact" class="scrollTo link">get in touch</a> if you have any queries. We're happy to offer a free, no obligation quote.
 swiperblock:
   title: "Services"
-  subtitle: RS Joiners offers a bespoke design, build and install service.<br/>Specialising in fitted storage solutions including wardrobes shelving and cupboards, but also more than happy to undertake any aspects of joinery related projects including hanging doors, skirting and flooring as well as restoration works.
+  subtitle: RS Joiners offers a bespoke design, build and install service, specialising in fitted storage solutions, including wardrobes shelving and cupboards. We’d be more than happy to undertake any joinery-related projects, including hanging doors, fencing, skirting and flooring, or restoration works.
   swiper:
     - slide:
       heading: Birch plywood shelving

@@ -13,7 +13,7 @@ $(document).ready(function() {
      e.preventDefault();
      var target = $(this).attr('href');
      $('html, body').animate({
-       scrollTop: ($(target).offset().top - 94)
+       scrollTop: ($(target).offset().top - 84)
      }, 250);
   });
 
