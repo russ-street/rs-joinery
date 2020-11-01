@@ -65,5 +65,9 @@
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.10",
     "webpack-merge": "^4.1.4"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "swiper": "^5.3.0"
   }
 }
