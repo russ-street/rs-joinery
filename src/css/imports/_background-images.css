@@ -20,8 +20,14 @@
 }
 
 .contact-background {
-  background: url('/img/contact-bg.jpg'), var(--rs-off-white);
-  background-position: bottom left, center;
-  background-size: auto 125%, 100%;
-  background-repeat: no-repeat, repeat;
+  background:  var(--rs-off-white);
+}
+
+@media (--breakpoint-medium) {
+  .contact-background {
+    background: url('/img/contact-bg.jpg'), var(--rs-off-white);
+    background-position: bottom left, center;
+    background-size: auto 125%, 100%;
+    background-repeat: no-repeat, repeat;
+  }
 }
