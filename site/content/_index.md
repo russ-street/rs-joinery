@@ -51,7 +51,7 @@ swiperblock:
       alt:
       ctaurl:
     - slide:
-      heading: Floating shelving
+      heading: Floating shelving and alcove units
       text:
       image: /img/2020-09-282013142408372481843616110_23043836895.jpg
       alt:
@@ -75,7 +75,7 @@ swiperblock:
       alt:
       ctaurl:
     - slide:
-      heading: Wardrobe layouts
+      heading: Wardrobes
       text:
       image: /img/wardrobe-design.jpg
       alt:
