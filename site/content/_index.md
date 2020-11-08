@@ -12,108 +12,126 @@ swiperblock:
       heading: Birch plywood shelving
       text:
       image: /img/2019-12-021542502190109095071972474_23043836895.jpg
+      imagewebp: /img/2019-12-021542502190109095071972474_23043836895.webp
       alt:
       ctaurl:
     - slide:
       heading: Victorian window shutters
       text:
       image: /img/2019-11-111228502174791160656881061_23043836895.jpg
+      imagewebp: /img/2019-11-111228502174791160656881061_23043836895.webp
       alt:
       ctaurl:
     - slide:
       heading: Skirting board
       text:
       image: /img/2019-11-251935342185152797544860732_23043836895.jpg
+      imagewebp: /img/2019-11-251935342185152797544860732_23043836895.webp
       alt:
       ctaurl:
     - slide:
       heading: Fire surround
       text:
       image: /img/2020-10-261411592428514579695780854_23043836895.jpg
+      imagewebp: /img/2020-10-261411592428514579695780854_23043836895.webp
       alt:
       ctaurl:
     - slide:
       heading: Fitted alcove units
       text:
       image: /img/alcove-shelves.jpg
+      imagewebp: /img/alcove-shelves.webp
       alt:
       ctaurl:
     - slide:
       heading: Panelled doors
       text:
       image: /img/2020-09-171755522400330806697349638_23043836895.jpg
+      imagewebp: /img/2020-09-171755522400330806697349638_23043836895.webp
       alt:
       ctaurl:
     - slide:
       heading: Architrave
       text:
       image: /img/2020-10-021347502411077607083736548_23043836895.jpg
+      imagewebp: /img/2020-10-021347502411077607083736548_23043836895.webp
       alt:
       ctaurl:
     - slide:
       heading: Floating shelving and alcove units
       text:
       image: /img/2020-09-282013142408372481843616110_23043836895.jpg
+      imagewebp: /img/2020-09-282013142408372481843616110_23043836895.webp
       alt:
       ctaurl:
     - slide:
       heading: Skirting board
       text:
       image: /img/2020-10-261411592428514576113731603_23043836895.jpg
+      imagewebp: /img/2020-10-261411592428514576113731603_23043836895.webp
       alt:
       ctaurl:
     - slide:
       heading: Books shelves
       text:
       image: /img/2020-09-282013142408372485174035283_23043836895.jpg
+      imagewebp: /img/2020-09-282013142408372485174035283_23043836895.webp
       alt:
       ctaurl:
     - slide:
       heading:
       text:
       image: /img/staircase-rod.jpg
+      imagewebp: /img/staircase-rod.webp
       alt:
       ctaurl:
     - slide:
       heading: Wardrobes
       text:
       image: /img/wardrobe-design.jpg
+      imagewebp: /img/wardrobe-design.webp
       alt:
       ctaurl:
     - slide:
       heading: Glazing aperture
       text:
       image: /img/glazing-frame.jpg
+      imagewebp: /img/glazing-frame.webp
       alt:
       ctaurl:
     - slide:
       heading: Stair stringers
       text:
       image: /img/routed-stair-stringers.jpg
+      imagewebp: /img/routed-stair-stringers.webp
       alt:
       ctaurl:
     - slide:
       heading: Flooring restoration
       text:
       image: /img/floors-2.jpg
+      imagewebp: /img/floors-2.webp
       alt:
       ctaurl:
     - slide:
       heading: Floating shelving
       text:
       image: /img/floating-shelves.jpg
+      imagewebp: /img/floating-shelves.webp
       alt:
       ctaurl:
     - slide:
       heading: Fitted cabinet
       text:
       image: /img/fitted-pine-cabinet.jpg
+      imagewebp: /img/fitted-pine-cabinet.webp
       alt:
       ctaurl:
     - slide:
       heading: Pine balustrade
       text:
       image: /img/balustrade.jpg
+      imagewebp: /img/balustrade.webp
       alt:
       ctaurl:
 
